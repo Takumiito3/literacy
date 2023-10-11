@@ -1,4 +1,4 @@
 /I love [wikipedia](URL)!
 
-[テキスト](https://ja.wikipedia.org/)
+[テキスト](ja.wikipedia.org/)
 2342021
